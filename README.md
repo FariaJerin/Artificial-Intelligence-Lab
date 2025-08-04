@@ -15,7 +15,7 @@
   Before running this program, you need to have "Spyder 6" IDE. 
   After opening the program file, you have to run the program to get the output.
 
-* Sample Inputs and Outputs:
+*Sample Inputs and Outputs:
   Full Name: Faria Khanam Jerin
   Vowels: 7 ,  Consonants: 9
   ASCII Values:  [70, 97, 114, 105, 97, 32, 75, 104, 97, 110, 97, 109, 32, 74, 101, 114, 105, 110]
