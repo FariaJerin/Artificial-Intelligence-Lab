@@ -8,7 +8,7 @@
  6. Display the first non-repeating character in the name (if any).
 
 *Technologies used:
-  IDE: Spyder
+  IDE: Spyder 6
   Language: python
 
 *How to run the code:
